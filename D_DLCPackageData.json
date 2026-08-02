@@ -1,0 +1,254 @@
+{
+    "RowStruct": "/Script/Icarus.DLCPackageData",
+    "Defaults": {
+        "PackageID": -1,
+        "DLCName": "",
+        "WebsiteAddress": "",
+        "Icon": "None",
+        "HoverText": "",
+        "DLCIconOwned": "None",
+        "DLCIconUnowned": "None",
+        "CapsuleImage": "None"
+    },
+    "GenerateEnum": true,
+    "Rows": [
+        {
+            "Name": "Deluxe_Edition_Envirosuit",
+            "PackageID": 1648531,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Deluxe_Edition_Envirosuit-DLCName\", \"Supporters Edition\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Preorder_Content",
+            "PackageID": 1648530,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Preorder_Content-DLCName\", \"Preorder Content\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "New_Frontiers",
+            "PackageID": 1648532,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"New_Frontiers-DLCName\", \"New Frontiers Expansion\")",
+            "WebsiteAddress": "steam://url/StoreAppPage/1648532/Icarus_New_Frontiers/?utm_source=GameClient&utm_campaign=InGameButton&utm_content=MainMenu",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_FeatureLevelIcon_NewFrontiers3.T_FeatureLevelIcon_NewFrontiers3",
+            "HoverText": "NSLOCTEXT(\"D_DLCPackageData\", \"New_Frontiers-HoverText\", \"Beyond Icarus\\' safe terraformed zones lies Prometheus - a region where the process failed, and everything it touched was mutated. Trek across alien grasslands, traverse volcanic wasteland laced with flowing lava, and chase a mysterious whistleblower through a chain of narrative missions that take you deeper into the unknown with every step.\\r\\n\\r\\n> 30+ new Workshop items, 100+ new craftable items\\r\\n> A new 64 km2 map made from new biomes: Volcanic, Swamp, Alien Grassland, Tundra, and the unexplored Null Sector\\r\\n> 6 new chained narrative missions\\r\\n> New creatures: Needlers, Dracs, Dreadwings and more\\r\\n> 5 new raw resources: Obsidian, Clay, Scoria, Crystallized Miasma, Super Cooled Ice\\r\\n\")",
+            "DLCIconOwned": "/Game/Assets/2DArt/UI/DLCBadges/T_ICON_DLC_NewFrontiers.T_ICON_DLC_NewFrontiers",
+            "DLCIconUnowned": "/Game/Assets/2DArt/UI/DLCBadges/T_ICON_DLC_NewFrontiers_Unavailable.T_ICON_DLC_NewFrontiers_Unavailable",
+            "CapsuleImage": "/Game/Assets/2DArt/UI/DLC/T_DLC_Capsule_NewFrontiers_V.T_DLC_Capsule_NewFrontiers_V"
+        },
+        {
+            "Name": "Dangerous_Horizons",
+            "PackageID": 1648533,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Dangerous_Horizons-DLCName\", \"Dangerous Horizons\")",
+            "WebsiteAddress": "steam://url/StoreAppPage/1648533/Icarus_Dangerous_Horizons_Expansion/?utm_source=GameClient&utm_campaign=InGameButton&utm_content=MainMenu",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double",
+            "HoverText": "NSLOCTEXT(\"D_DLCPackageData\", \"Dangerous_Horizons-HoverText\", \"At the ground zero of Icarus\\' terraforming experiments sits Elysium, where the UDA\\'s silence hides more than radiation. Explore hostile radiation zones, encounter mutated wildlife, and settle into Eden, the first populated mission hub, as the story from New Frontiers pulls you deeper into the unknown.\\r\\n\\r\\n> A new 64 km2 map: Elysium, with new Geothermal, Radioactive biomes\\r\\n> 35+ new creatures and hostile NPCs make every biome feel new and different\\r\\n> 4 new mounts, including raptors, and 3 other new tameable creatures\\r\\n> New resources to support Tier 5 tech: Oil, Lithium, Ruby, Limestone, Uranium\\r\\n> 5 new crop species with dozens of new food recipes\")",
+            "DLCIconOwned": "/Game/Assets/2DArt/UI/DLCBadges/T_ICONS_DangerousHorizons.T_ICONS_DangerousHorizons",
+            "DLCIconUnowned": "/Game/Assets/2DArt/UI/DLCBadges/T_ICONS_DangerousHorizons_Unavailable.T_ICONS_DangerousHorizons_Unavailable",
+            "CapsuleImage": "/Game/Assets/2DArt/UI/DLC/T_DLC_Capsule_DangerousHorizons_V.T_DLC_Capsule_DangerousHorizons_V"
+        },
+        {
+            "Name": "Styx_Map",
+            "PackageID": 1995690,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Styx_Map-DLCName\", \"Styx Expansion\")",
+            "WebsiteAddress": "steam://url/StoreAppPage/1995690/Icarus_Styx_Expansion/?utm_source=GameClient&utm_campaign=InGameButton&utm_content=MainMenu",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double",
+            "HoverText": "NSLOCTEXT(\"D_DLCPackageData\", \"Styx_Map-HoverText\", \"The Lagos Unit has declared the Styx region open for prospecting - no explanation given for why it was locked down, and none for the rumours of mutations in the local wildlife. A vast map of forested, arid, and arctic biomes awaits, centred on a braided river system that\\'s home to Crocodiles, Komodo Dragons, and Kea Parrots. Missions reshape the map as you complete them, opening new routes through terrain that never runs straight.\\r\\n\\r\\n> A new 64 km2 map with forested, arid, and arctic biomes\\r\\n> 23 new timed missions, 19 Open World Operations, 50+ SMPL3 missions\\r\\n> New creatures: Crocodiles, Komodo Dragons, Kea Parrots\\r\\n> Missions that physically alter the map and unlock new traversal routes\")",
+            "DLCIconOwned": "/Game/Assets/2DArt/UI/DLCBadges/T_ICON_DLC_Styx.T_ICON_DLC_Styx",
+            "DLCIconUnowned": "/Game/Assets/2DArt/UI/DLCBadges/T_ICON_DLC_Styx_Unavailable.T_ICON_DLC_Styx_Unavailable",
+            "CapsuleImage": "/Game/Assets/2DArt/UI/DLC/T_DLC_Capsule_Styx_V.T_DLC_Capsule_Styx_V"
+        },
+        {
+            "Name": "Decorations_Pack_1",
+            "PackageID": 2445280,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Decorations_Pack_1-DLCName\", \"Interior Decorations Pack\")",
+            "WebsiteAddress": "https://store.steampowered.com/app/2445280/Icarus_Interior_Decorations_Pack/",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Outpost_003_Arctic",
+            "PackageID": 1648541,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Outpost_003_Arctic-DLCName\", \"Iceholm Outpost Pack\")",
+            "WebsiteAddress": "https://store.steampowered.com/app/1648541/Icarus_Iceholm_Outpost/",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Outpost_004_Desert",
+            "PackageID": 2536360,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Outpost_004_Desert-DLCName\", \"Tecton Outpost Pack\")",
+            "WebsiteAddress": "https://store.steampowered.com/app/2536360/Icarus_Tecton_Outpost/",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Outpost_005_Forest",
+            "PackageID": 1648540,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Outpost_005_Forest-DLCName\", \"Holdfast Outpost Pack\")",
+            "WebsiteAddress": "https://store.steampowered.com/app/1648540/Icarus_Holdfast_Outpost/",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Outpost_006_Forest",
+            "PackageID": 2536370,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Outpost_006_Forest-DLCName\", \"Everbark Outpost Pack\")",
+            "WebsiteAddress": "https://store.steampowered.com/app/2536370/Icarus_Everbark_Outpost/",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Outpost_007_Desert",
+            "PackageID": 2536380,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Outpost_007_Desert-DLCName\", \"Cactus Outpost Pack\")",
+            "WebsiteAddress": "https://store.steampowered.com/app/2536380/Icarus_Cactus_Outpost/",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Outpost_008_Arctic",
+            "PackageID": 2536390,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Outpost_008_Arctic-DLCName\", \"Arcticus Outpost Pack\")",
+            "WebsiteAddress": "https://store.steampowered.com/app/2536390/Icarus_Arcticus_Outpost/",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Outpost_009_Arctic_Volcanic",
+            "PackageID": 3364360,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Outpost_009_Arctic_Volcanic-DLCName\", \"Frostfall Outpost Pack\")",
+            "WebsiteAddress": "https://store.steampowered.com/app/3364360/Icarus_Frostfall_Outpost/",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Bone_Armor_Head",
+            "PackageID": 2544770,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Bone_Armor_Head-DLCName\", \"Bone Armor Head Twitch Drop\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Bone_Armor_Chest",
+            "PackageID": 2544780,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Bone_Armor_Chest-DLCName\", \"Bone Armor Chest Twitch Drop\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Bone_Armor_Arms",
+            "PackageID": 2544790,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Bone_Armor_Arms-DLCName\", \"Bone Armor Arm Twitch Drop\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Bone_Armor_Legs",
+            "PackageID": 2544800,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Bone_Armor_Legs-DLCName\", \"Bone Armor Legs Twitch Drop\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Bone_Armor_Feet",
+            "PackageID": 2544810,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Bone_Armor_Feet-DLCName\", \"Bone Armor Feet Twitch Drop\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Industrial_Furniture_Pack",
+            "PackageID": 2679990,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Industrial_Furniture_Pack-DLCName\", \"Industrial Furniture Pack\")",
+            "WebsiteAddress": "https://store.steampowered.com/app/2679990/Icarus_Industrial_Furniture_Pack/",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Art_Deco_Pack",
+            "PackageID": 2686540,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Art_Deco_Pack-DLCName\", \"Art Deco Pack\")",
+            "WebsiteAddress": "https://store.steampowered.com/app/2686540/Icarus_Art_Deco_Furniture_Pack/",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Stationeers",
+            "PackageID": 544550,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Stationeers-DLCName\", \"Stationeers\")",
+            "WebsiteAddress": "https://store.steampowered.com/app/544550/Stationeers/",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Creature_Comforts",
+            "PackageID": 2790990,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Creature_Comforts-DLCName\", \"Creature Comforts Pack\")",
+            "WebsiteAddress": "https://store.steampowered.com/app/2790990/Icarus_Creature_Comforts_Pack/",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Paws.T_ICON_Paws",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Laika"
+                }
+            }
+        },
+        {
+            "Name": "Pet_Companions",
+            "PackageID": 2923820,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Pet_Companions-DLCName\", \"Pet Companions\")",
+            "WebsiteAddress": "steam://url/StoreAppPage/2923820/Icarus_Pet_Companions_Pack/?utm_source=GameClient&utm_campaign=InGameButton&utm_content=MainMenu",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Paws.T_ICON_Paws",
+            "HoverText": "NSLOCTEXT(\"D_DLCPackageData\", \"Pet_Companions-HoverText\", \"The Laika update brings animal companions to ICARUS - creatures with their own levels, talent trees, and food requirements. This pack expands your roster with 15 new animals: five cats, seven dogs, and three horses, each with unique loot and trophies. Deploy them from the Workshop and they\\'re yours for keeps.\\r\\n\\r\\n> 5 new cats: Tortoiseshell Ragdoll, Himalayan Seal Point, Grey Tabby, Orange Tabby, Black Cat\\r\\n> 7 new dogs: Golden Labrador, Chocolate Labrador, German Shepherd, Pug, Panda German Shepherd, French Bulldog, Border Collie\\r\\n> 3 new horses: Brown, Black, White\")",
+            "DLCIconOwned": "/Game/Assets/2DArt/UI/DLCBadges/T_ICON_DLC_PetCompanions.T_ICON_DLC_PetCompanions",
+            "DLCIconUnowned": "/Game/Assets/2DArt/UI/DLCBadges/T_ICON_DLC_PetCompanions_Unavailable.T_ICON_DLC_PetCompanions_Unavailable",
+            "CapsuleImage": "/Game/Assets/2DArt/UI/DLC/T_DLC_Capsule_PetCompanions_V.T_DLC_Capsule_PetCompanions_V",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Laika"
+                }
+            }
+        },
+        {
+            "Name": "Zebra_Rescue_Mission",
+            "PackageID": 2923830,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Zebra_Rescue_Mission-DLCName\", \"Zebra Rescue Mission\")",
+            "WebsiteAddress": "https://store.steampowered.com/bundle/40692/Icarus_Pets_Bundle/",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Paws.T_ICON_Paws",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Laika"
+                }
+            }
+        },
+        {
+            "Name": "Homestead",
+            "PackageID": 2791000,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Homestead-DLCName\", \"Homestead Decorations Pack\")",
+            "WebsiteAddress": "steam://url/StoreAppPage/2791000/Icarus_Homestead_Content_Pack/?utm_source=GameClient&utm_campaign=InGameButton&utm_content=MainMenu",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_Icon_Homestead.T_Icon_Homestead",
+            "HoverText": "NSLOCTEXT(\"D_DLCPackageData\", \"Homestead-HoverText\", \"50+ new furniture items, lighting, building pieces, and decorations built for prospectors who want their claim to feel like a real home. From Brick Fireplaces and fat-powered Lamp Posts to Butter Churns, a Cuckoo Clock, and a working Weather Vane - the details that turn a base into a homestead.\\r\\n\\r\\n> 50+ new furniture items and variants\\r\\n> New lighting: Lamp Posts, Wall Candles, Homestead Lantern\\r\\n> New building pieces: Shutters (2 variants), Curtains (6 variants), Saloon Doors (2 variants)\\r\\n> New utility: Planter Boxes, Scarecrow (spawn blocker), Pitchfork\\r\\n> New exterior decor: Iron & Gold Birdbaths, Weather Vane\")",
+            "DLCIconOwned": "/Game/Assets/2DArt/UI/DLCBadges/T_ICONS_Homestead.T_ICONS_Homestead",
+            "DLCIconUnowned": "/Game/Assets/2DArt/UI/DLCBadges/T_ICONS_Homestead_Unavailable.T_ICONS_Homestead_Unavailable",
+            "CapsuleImage": "/Game/Assets/2DArt/UI/DLC/T_DLC_Capsule_Homestead_V.T_DLC_Capsule_Homestead_V",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Matariki_Mission",
+            "PackageID": 1995690,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Matariki_Mission-DLCName\", \" Matariki Mission\")",
+            "WebsiteAddress": "https://store.steampowered.com/app/1995690/Icarus_Styx_Expansion/",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        },
+        {
+            "Name": "Great_Hunts",
+            "PackageID": 3315290,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Great_Hunts-DLCName\", \"Great Hunts\")",
+            "WebsiteAddress": "steam://url/StoreAppPage/3315290/Icarus_Great_Hunts_Campaigns/?utm_source=GameClient&utm_campaign=InGameButton&utm_content=MainMenu",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/FeatureLevel/T_FeatureLevel_GH.T_FeatureLevel_GH",
+            "HoverText": "NSLOCTEXT(\"D_DLCPackageData\", \"Great_Hunts-HoverText\", \"Nonlinear boss-hunting campaigns spanning three ICARUS maps, where your choices shape every hunt - affecting spawns, loot, recipes, and boss difficulty. Track each boss to their hidden arena, take them down, and forge Legendary Weapons from their drops, each with 81 unique upgrade combinations. Three hunts at launch, with more to come.\\r\\n\\r\\n> 3 campaigns at launch, one per map (Olympus, Styx, Prometheus)\\r\\n> New World Bosses with unique powers and hidden arenas\\r\\n> Legendary Weapons with 4 upgrade slots and 81 unique combinations per weapon\\r\\n> Branching missions with mutually exclusive choices\\r\\n> New weapons, tools, armour, traps, modules, and attachments\")",
+            "DLCIconOwned": "/Game/Assets/2DArt/UI/DLCBadges/T_ICONS_GreatHunts.T_ICONS_GreatHunts",
+            "DLCIconUnowned": "/Game/Assets/2DArt/UI/DLCBadges/T_ICONS_GreatHunts_Unavailable.T_ICONS_GreatHunts_Unavailable",
+            "CapsuleImage": "/Game/Assets/2DArt/UI/DLC/T_DLC_Capsule_GreatHunts_V.T_DLC_Capsule_GreatHunts_V",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "GreatHunts"
+                }
+            }
+        },
+        {
+            "Name": "Outpost_012_Island",
+            "PackageID": 3984230,
+            "DLCName": "NSLOCTEXT(\"D_DLCPackageData\", \"Outpost_012_Island-DLCName\", \"Aquatica Isle Outpost Pack\")",
+            "WebsiteAddress": "https://store.steampowered.com/app/3984230",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Money_Symbol_Double.T_ICON_Money_Symbol_Double"
+        }
+    ]
+}
